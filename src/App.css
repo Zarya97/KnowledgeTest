@@ -21,21 +21,7 @@
   margin-top: 20px;
 }
 
-.card {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-radius: 2px;
-  box-shadow: 0 0 5px 2px whitesmoke;
-  transform-style: preserve-3d;
-  font-weight: 700;
-  height: 350px;
-  width: 500px;
-  backdrop-filter: blur(2px);
-  cursor: pointer;
-  transition: .5s;
-  transform: perspective(1000px) rotateX(var(--rotate-X, 0))
-}
+
 .buttons {
   display: flex;
   justify-content: center;
@@ -43,9 +29,10 @@
   margin-top: 1rem;
 }
 button {
+  width: 100px;
   border-radius: 8px;
-  margin-left: 2px;
-  margin-right: 2px;
+  margin-left: 10px;
+  margin-right: 10px;
   border: 1px solid transparent;
   padding: .6em 1.2em;
   font-size: 1em;
@@ -62,4 +49,13 @@ button:hover {
 
 button:focus,button:focus-visible {
   outline: 4px auto greenyellow;
+}
+
+img {
+  position: absolute;
+  margin-top: 20px;
+  right: 200px;
+  width: 100px;
+  height: 120px;
+  border-radius: 5px;
 }
