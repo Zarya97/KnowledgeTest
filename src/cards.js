@@ -62,61 +62,61 @@ const cardPairs = [
     {
         question: "Who created the sculpture 'David'?",
         answer: "Michelangelo",
-        imageUrl: "https://www.example.com/david.jpg",
+        imageUrl: "https://pbs.twimg.com/profile_images/527991807402328064/LmS_7fXc_400x400.jpeg",
         difficulty: "medium"
       },
       {
         question: "What is the name of the painting that depicts a screaming figure on a bridge?",
         answer: "The Scream",
-        imageUrl: "https://www.example.com/the_scream.jpg",
+        imageUrl: "https://pbs.twimg.com/profile_images/527991807402328064/LmS_7fXc_400x400.jpeg",
         difficulty: "easy"
       },
       {
         question: "What is the name of the Dutch painter who created 'The Night Watch'?",
         answer: "Rembrandt",
-        imageUrl: "https://www.example.com/the_night_watch.jpg",
+        imageUrl: "https://pbs.twimg.com/profile_images/527991807402328064/LmS_7fXc_400x400.jpeg",
         difficulty: "hard"
       },
       {
         question: "Which artist is known for his 'Campbell's Soup Cans'?",
         answer: "Andy Warhol",
-        imageUrl: "https://www.example.com/campbells_soup_cans.jpg",
+        imageUrl: "https://pbs.twimg.com/profile_images/527991807402328064/LmS_7fXc_400x400.jpeg",
         difficulty: "medium"
       },
       {
         question: "What is the name of the artist who created the 'Water Lilies' series of paintings?",
         answer: "Claude Monet",
-        imageUrl: "https://www.example.com/water_lilies.jpg",
+        imageUrl: "https://pbs.twimg.com/profile_images/527991807402328064/LmS_7fXc_400x400.jpeg",
         difficulty: "easy"
       },
       {
         question: "Who painted the 'Girl with a Pearl Earring'?",
         answer: "Johannes Vermeer",
-        imageUrl: "https://www.example.com/girl_with_a_pearl_earring.jpg",
+        imageUrl: "https://pbs.twimg.com/profile_images/527991807402328064/LmS_7fXc_400x400.jpeg",
         difficulty: "medium"
       },
       {
         question: "What is the name of the artist who created the 'Persistence of Memory' painting?",
         answer: "Salvador Dali",
-        imageUrl: "https://www.example.com/persistence_of_memory.jpg",
+        imageUrl: "https://pbs.twimg.com/profile_images/527991807402328064/LmS_7fXc_400x400.jpeg",
         difficulty: "hard"
       },
       {
         question: "Who painted 'Starry Night'?",
         answer: "Vincent van Gogh",
-        imageUrl: "https://www.example.com/starry_night.jpg",
+        imageUrl: "https://pbs.twimg.com/profile_images/527991807402328064/LmS_7fXc_400x400.jpeg",
         difficulty: "medium"
       },
       {
         question: "What is the name of the painting that depicts the god Zeus as a strong man throwing a lightning bolt?",
         answer: "The Statue of Zeus at Olympia",
-        imageUrl: "https://www.example.com/zeus_statue.jpg",
+        imageUrl: "https://pbs.twimg.com/profile_images/527991807402328064/LmS_7fXc_400x400.jpeg",
         difficulty: "hard"
       },
       {
         question: "Which artist is known for his 'Guernica' painting?",
         answer: "Pablo Picasso",
-        imageUrl: "https://www.example.com/guernica.jpg",
+        imageUrl: "https://pbs.twimg.com/profile_images/527991807402328064/LmS_7fXc_400x400.jpeg",
         difficulty: "medium"
       }      
   ];

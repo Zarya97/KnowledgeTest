@@ -20,7 +20,10 @@ const Cards = ({ question, answer, difficulty, imageUrl }) => {
             </div>
           </div>
           <div className="flip-card-back">
-            <p className="answer">{answer}</p>
+            <p className="answer">Answer: {answer}</p>
+            <div className={`difficulty ${difficulty}`}>
+              {difficulty}
+            </div>
           </div>
         </div>
       </div>
